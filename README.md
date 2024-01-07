@@ -3,13 +3,13 @@
 ## 👋 Jun Young 👋
 
  🎓 세종대학교 전자정보통신공학과 졸업 (2017.03 ~ 2024.08)
- 
+
 
  ## 🏆 AWARD
  
- 2023 전자정보통신공학과 P.A.E 대상
+ 🥇 2023 전자정보통신공학과 P.A.E 대상
  
- 멋쟁이사자처럼 X 세종대학교 창업지원단 우수상
+ 🥉 멋쟁이사자처럼 X 세종대학교 창업지원단 우수상
 
  <hr/>
  
@@ -18,7 +18,7 @@
 <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JunYoungKr&layout=compact&theme=dracula"/>
 
  ### 🛠 SKILL 🛠
-  <div align="left" style={{display:"flex"}}>
+  <div>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
     <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
