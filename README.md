@@ -2,20 +2,6 @@
 
 ## 👋 Jun Young 👋
 
- 🎓 세종대학교 전자정보통신공학과 졸업 (2017.03 ~ 2024.08)
-
-
- ## 🏆 AWARD
- 
- 🥇 2023 전자정보통신공학과 P.A.E 대상
- 
- 🥉 멋쟁이사자처럼 X 세종대학교 창업지원단 우수상
-
-### 💼 Portfolio
-<a href="https://elfin-church-f71.notion.site/97900880b745456d97b0a70f52288727"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
-
- <hr/>
- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunYoungKr&show_icons=true&theme=dracula)
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnsdud981020"/>
 <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JunYoungKr&layout=compact&theme=dracula"/>
@@ -33,4 +19,26 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
+<br/>
+<br/>
+
+
+### 🎓 세종대학교 전자정보통신공학과 졸업 (2017.03 ~ 2024.08)
+  
+## 🌱 I'm Currently learning...
+- Learning Python For Software Maestro 15th
+- Learning React-Native For an application
+- Next.js, Typescript
+- I am looking forward to finding a job in the UK
+
+
+ ## 🏆 AWARD
+ 
+ 🥇 2023 전자정보통신공학과 P.A.E 대상
+ 
+ 🥉 멋쟁이사자처럼 X 세종대학교 창업지원단 우수상
+
+### 💼 Portfolio
+<a href="https://elfin-church-f71.notion.site/97900880b745456d97b0a70f52288727"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+
 </div>
