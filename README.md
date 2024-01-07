@@ -11,6 +11,9 @@
  
  🥉 멋쟁이사자처럼 X 세종대학교 창업지원단 우수상
 
+## Portfolio
+<a href="https://www.notion.so/97900880b745456d97b0a70f52288727?pvs=4"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+
  <hr/>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunYoungKr&show_icons=true&theme=dracula)
