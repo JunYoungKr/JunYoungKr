@@ -26,11 +26,6 @@
 ### 🎓 세종대학교 전자정보통신공학과 졸업 (2017.03 ~ 2024.08)
   
 ## 🌱 I'm Currently learning...
-- Learning Python For Software Maestro 15th
-- Learning React-Native For an application
-- Next.js, Typescript
-- I am looking forward to finding a job in the UK
-
 
  ## 🏆 AWARD
  
